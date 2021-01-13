@@ -1,5 +1,5 @@
 # webdir-tools
-自己随便写的 WEBDIR+（webshell扫描服务-OpenRASP 团队）的python工具
+基于[WEBDIR+（webshell扫描服务-OpenRASP 团队）](https://scanner.baidu.com/)的api随便写了个python工具
 
 ### Usage
 ```
